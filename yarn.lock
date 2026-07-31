@@ -597,25 +597,25 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@mantine-vue/core@npm:2.3.1":
-  version: 2.3.1
-  resolution: "@mantine-vue/core@npm:2.3.1"
+"@mantine-vue/core@npm:3.0.0":
+  version: 3.0.0
+  resolution: "@mantine-vue/core@npm:3.0.0"
   dependencies:
     "@floating-ui/vue": "npm:1.1.9"
   peerDependencies:
-    "@mantine-vue/hooks": 2.3.1
-    "@mantine-vue/utils": 2.3.1
+    "@mantine-vue/hooks": 3.0.0
+    "@mantine-vue/utils": 3.0.0
     vue: ^3.5.0
-  checksum: 10c0/c6770b36a7e65d7a77538fb1a4da3c4b60123d89c22c35419947175b898608c75dece7fc6dc3f7e7f75cb170298bf2b74c2c63775f9390b5685d316f1a294c21
+  checksum: 10c0/234a9fd43da20a627e357d83285296e914f82daa85f1b6c1f7e906838bd29921cba8c2845d74ed76d6aeaea0e38b0229441953968e2ca08daad3a780b1b779ec
   languageName: node
   linkType: hard
 
-"@mantine-vue/hooks@npm:2.3.1":
-  version: 2.3.1
-  resolution: "@mantine-vue/hooks@npm:2.3.1"
+"@mantine-vue/hooks@npm:3.0.0":
+  version: 3.0.0
+  resolution: "@mantine-vue/hooks@npm:3.0.0"
   peerDependencies:
     vue: ^3.5.0
-  checksum: 10c0/f5b89cd8fa7274d7561674d350ffb1572cc803877382aeef73902b1d9720c5bbabb24a93516380b69ffe3c66252d4d2c8ecbf0af1b1449ab4ff184e7319af0fd
+  checksum: 10c0/bf099b9e328e87fc26b9ba4538813d700c61b56efd7dc8816b6d20aa5aeb3049313bc0343e7133aaf8c7abf87542cdba30209e890afb7fd6f559b36a048bd1af
   languageName: node
   linkType: hard
 
@@ -3802,8 +3802,8 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "mantine-vue-vite-template@workspace:."
   dependencies:
-    "@mantine-vue/core": "npm:2.3.1"
-    "@mantine-vue/hooks": "npm:2.3.1"
+    "@mantine-vue/core": "npm:3.0.0"
+    "@mantine-vue/hooks": "npm:3.0.0"
     "@storybook/addon-themes": "npm:^10.0.0"
     "@storybook/vue3-vite": "npm:^10.0.0"
     "@testing-library/jest-dom": "npm:^6.9.1"
